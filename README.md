@@ -121,5 +121,5 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+  <i>"Stay curious, keep learning."</i> ✨
 </p>
