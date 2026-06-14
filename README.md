@@ -6,19 +6,19 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Étudiante+en+Informatique;Passionnée+par+la+Cybersécurité">
-    <h3 align="center">Étudiante en Informatique à Alger, Algérie</h3>
-    <h3 align="center">Intéressée par la Cybersécurité et le développement</h3>
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Computer+Science+Student;Cybersecurity+Enthusiast">
+    <h3 align="center">Computer Science Student based in Algiers, Algeria</h3>
+    <h3 align="center">Passionate about Cybersecurity and Software Development</h3>
 </p>
 
 ---
 
 ## 🎓 About Me
 
-- 🏫 Étudiante en **Informatique**
-- 🔒 Passionnée par la **Cybersécurité**
-- 📍 Basée à **Alger, Algérie**
-- 🌱 Actuellement en apprentissage continu
+- 🏫 Computer Science **Student**
+- 🔒 Passionate about **Cybersecurity**
+- 📍 Based in **Algiers, Algeria**
+- 🌱 Continuously learning and improving my skills
 
 ---
 
@@ -97,15 +97,15 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔒 Projet Cybersécurité</h3>
+        <h3 align="center">🔒 Cybersecurity Project</h3>
         <p align="center">
-          <i>À venir...</i>
+          <i>Coming soon...</i>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">💻 Projet Développement</h3>
+        <h3 align="center">💻 Development Project</h3>
         <p align="center">
-          <i>À venir...</i>
+          <i>Coming soon...</i>
         </p>
       </td>
     </tr>
@@ -114,10 +114,10 @@
 
 ---
 
-## 📫 How to get in touch?
+## 📫 How to reach me?
 
 <p align="center">
-  📍 <b>Alger, Algérie</b>
+  📍 <b>Algiers, Algeria</b>
 </p>
 
 ---
